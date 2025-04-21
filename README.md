@@ -1,82 +1,79 @@
 👩‍💻 Shahd Aiiad
-
-🚀 Computer Engineering Student | Java Developer | Problem Solver
-
-
-🔍 About Me
-
-🎓 I'm a Computer Engineering student at Islamic University of Gaza, 
-💻 I have strong skills in Java and basic knowledge of C++.
-📚 I love programming and developing creative projects that solve real-world problems.
-🌍 Fluent in Arabic and English.
+)
+🖥️ About Me:
+Hi, I'm Shahd Aiiad, a passionate Full-Stack Web Developer dedicated to building modern, responsive, and user-friendly websites and web applications.
+I successfully completed The Complete Full-Stack Web Development Bootcamp with Angela Yu, where I developed a strong foundation in both frontend and backend technologies.
+I am highly motivated to keep learning, improve my skills, and create outstanding digital experiences.
 
 
----
+🛠️ Technical Skills:
+Frontend:
 
-🛠️ Skills & Technologies
+HTML5, CSS3, JavaScript (ES6)
 
-Languages: Java, C, C++
+Bootstrap 5
 
-Frameworks & Libraries: JavaFX, Swing
+Responsive Web Design (Mobile-First Approach)
 
-Database Management: PostgreSQL
+Backend:
 
-Tools & IDEs: NetBeans, IntelliJ IDEA
+Node.js, Express.js
 
-Version Control: Git & GitHub
+RESTful API Development
 
-Problem Solving & Algorithms
+Database:
 
+MongoDB (using Mongoose)
 
+Basic understanding of NoSQL database structures
 
----
+Tools and Technologies:
 
-💼 Projects
+Git & GitHub (Version Control)
 
-🔹 Traffic Light System
+EJS Templating Engine
 
-A simulation of a real-life Traffic Light Control System that efficiently manages vehicle flow.
-Tech Used: Java, Object-Oriented Programming (OOP)
+Postman (API Testing)
 
-🔹 ATM System
+jQuery and other useful JavaScript libraries
 
-An ATM Simulation that performs essential banking operations like withdrawals, deposits, and balance inquiries.
-Tech Used: Java, OOP
+🚀 Projects I've Worked On:
+1. E-commerce Website
+Designed and developed a fully responsive online store.
 
-🔹 Project Tracking Application (In Progress)
+Implemented cart management and a basic checkout system.
 
-A desktop app built with JavaFX and PostgreSQL to help users manage projects effectively.
-Tech Used: JavaFX, PostgreSQL
+Built backend services with Node.js and Express.js.
 
+2. Personal Blog Website
+Created a dynamic blog platform using MongoDB and Express.
 
----
+Enabled users to create, edit, and delete blog posts.
 
-📈 Currently Learning
+Focused on clean UI and seamless user experience across all devices.
 
-🔹 Advanced Java Concepts
-🔹 Database Optimization Techniques
-🔹 Design Patterns for Software Development
-🔹 Building Web Applications with Spring Boot
+3. To-Do List Application
+Built a task management app with real-time updates.
 
+Stored user tasks securely using MongoDB.
 
----
+Integrated smooth user interactions for adding and removing tasks.
 
-🌟 Achievements
+4. Personal Portfolio Website
+Designed and coded a personal portfolio to showcase my projects and skills.
 
-✅ Certified in C Programming
-✅ Successfully developed multiple academic projects
-✅ Active participant in coding challenges and hackathons
+Implemented responsive design using advanced CSS techniques (Flexbox/Grid).
 
+🌈 Future Goals:
+Deepen my knowledge in advanced frontend technologies like React.js and Next.js.
 
----
+Begin my journey into Mobile App Development with Flutter.
 
-📫 Let's Connect
+Work on real-world, full-stack projects combining web and mobile solutions.
 
-📧 Email (nour3bd98@gmail.com)
+📞 Contact Me:
+✉️ Email: nour3bd98@gmail.com
 
+💬 Quick Note:
+As I continue to grow in the tech industry, I am excited to take on new challenges, collaborate on meaningful projects, and create digital products that make a difference.
 
----
-
-🧩 Fun Fact
-
-I believe that "Every line of code tells a story", and I enjoy turning ideas into functional and creative solutions.
