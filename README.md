@@ -1,5 +1,7 @@
 👩‍💻 Shahd Aiiad
-)
+
+
+
 🖥️ About Me:
 Hi, I'm Shahd Aiiad, a passionate Full-Stack Web Developer dedicated to building modern, responsive, and user-friendly websites and web applications.
 I successfully completed The Complete Full-Stack Web Development Bootcamp with Angela Yu, where I developed a strong foundation in both frontend and backend technologies.
